@@ -1,12 +1,17 @@
 @font-face {
     font-family:"GoS" ;
-    src: url(/html/fonts/game_of_squids.otf;);
+    src: url("/fonts/game_of_squids.otf")
     /* font-weight: 400; */
 }
 
 @font-face {
     font-family:"GoS" ;
-    src: url(/html/fonts/game_of_squids.ttf);
-   /* font-weight: 600; */
+src: url("/fonts/game_of_squids.ttf")
+  /* font-weight: 600; */ 
+}
 
+@font-face {
+    font-family:"bamboo" ;
+src: url("/fonts/bamboo.ttf")
+  /* font-weight: 600; */ 
 }
